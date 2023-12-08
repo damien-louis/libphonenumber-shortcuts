@@ -31,9 +31,6 @@ $isValid = \PhoneNumberOneLine::isValid('+33 607080910', 'FR');
 
 //false
 $isValid = \PhoneNumberOneLine::isValid('+1607080910', 'FR');
-
-//false
-$result = \PhoneNumberOneLine::getRegionCodeForNumber('notanumber');
 ```
 ### Region Code
 Return `string` or `null`
