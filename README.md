@@ -1,6 +1,7 @@
 # Libphonenumber shortcuts
 
-The goal is to provide shortcuts to use famous [libphonenumber](https://github.com/giggsey/libphonenumber-for-php) functions most quickly and easily
+Provide shortcuts to use famous [libphonenumber](https://github.com/giggsey/libphonenumber-for-php) functions most quickly and easily.  
+Exceptions are voluntarily catched because the goal is to use this only in final context (displaying for example). 
 
 ### Installation
 
