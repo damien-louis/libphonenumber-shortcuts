@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 use libphonenumber\PhoneNumberUtil;
 
-class PhoneNumberOneLine
+class PhoneNumberShortcuts
 {
     public const E164 = 0;
     public const INTERNATIONAL = 1;
