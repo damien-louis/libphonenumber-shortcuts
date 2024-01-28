@@ -59,6 +59,7 @@ $rules = [
     'single_blank_line_at_eof' => true,
     'yoda_style' => false,
     'nullable_type_declaration_for_default_null_value' => true,
+    'fully_qualified_strict_types' => false
 ];
 
 $finder = Finder::create()
